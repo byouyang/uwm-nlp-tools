@@ -5,7 +5,7 @@ Small NLP utilities for annotation training, bracket cleanup, dataset conversion
 ## Setup
 
 Run: `pip install -r requirements.txt` and `python -m spacy download en_core_web_sm`  
-Does: Installs the Python packages and spaCy model used by the scripts.
+To install Python packages and spaCy model used by the scripts.
 
 ## Files
 
